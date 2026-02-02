@@ -102,12 +102,6 @@ The database follows a structured relational schema connecting customers, invoic
 
 ---
 
-## 👨‍💻 Author
-
-**Faiyan Khan**  
-Aspiring Data Analyst | SQL | Python | Power BI  
-GitHub: https://github.com/YOUR-USERNAME
-
 ---
 
 ## ⭐ Support
